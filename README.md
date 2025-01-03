@@ -10,12 +10,12 @@ This Python project performs sentiment analysis on a given text and visualizes t
 - Analyzes the overall sentiment of the text using NLTK's VADER sentiment analysis.
 - Visualizes the frequency of emotions found in the text as a bar chart.
 
+![Emotion Frequency](https://github.com/angelop11/Sentiment-Analyzer/blob/main/graph.png)
+
 ## Requirements
 To run this project, you need to install the following Python libraries:
 - `nltk`
 - `matplotlib`
-
-![Emotion Frequency](https://github.com/angelop11/Sentiment-Analyzer/blob/main/graph.png)
 
 You can install them via `pip3`:
 
