@@ -15,10 +15,11 @@ To run this project, you need to install the following Python libraries:
 - `nltk`
 - `matplotlib`
 
+![Emotion Frequency](https://github.com/angelop11/Sentiment-Analyzer/blob/main/graph.png)
+
 You can install them via `pip3`:
 
 ```bash
 pip3 install nltk matplotlib
 
-![Emotion Frequency](https://github.com/angelop11/Sentiment-Analyzer/blob/main/graph.png)
 
